@@ -1,13 +1,21 @@
 === Domain Contact Form ===
 
 Tags: domain, form, email
+
 Requires at least: 4.2
+
 Tested up to: 4.9.5
+
 Stable tag: 1.0.0
+
 Build time: 2018-06-06T19:32:31+02:00
+
 License: GPLv3
+
 License URI: http://www.gnu.org/licenses/gpl.html
+
 Donate link: 
+
 Contributors: 
 
 Simple form for sending email to multiple person with dynamaic domain name in subject
@@ -26,6 +34,7 @@ Domain contact form is a simple email sending form that uses a shortcode to crea
 
 == Documentation ==
 The use of the plugin is very simple just add the shortcode in you page
+
 [domain_contact_form dcf_toemail='xxx@example.com' dcf_domain='test.com']
 
 == Frequently Asked Questions ==
